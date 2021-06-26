@@ -1,0 +1,1 @@
+Curso parece bom até agora, estou no primeiro tópico, sobre Git
